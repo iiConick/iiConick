@@ -49,8 +49,3 @@ Linux, Windows, Git/GitHub, Azure DevOps, MongoDB, MySQL Workbench, VS Code, Int
 - Model training and evaluation
 - Software development
 - Backend and workflow automation
-
-## Connect
-- LinkedIn: [Add your LinkedIn link]
-- GitHub: [Add your GitHub link]
-- Email: csmcelro@lakeheadu.ca
