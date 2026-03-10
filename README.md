@@ -40,7 +40,7 @@ Linux, Windows, Git/GitHub, Azure DevOps, MongoDB, MySQL Workbench, VS Code, Int
   *ACDSA 2026, accepted*
 
 - **Did ChatGPT or Copilot Use Alter the Style of Internet News Headlines? A Time Series Regression Analysis**  
-  *IEEE ICMI 2025*
+  *IEEE ICMI 2025, accepted*
 
 ## Areas I Enjoy Working In
 - AI / ML Research
